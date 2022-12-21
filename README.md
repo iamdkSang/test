@@ -1,6 +1,6 @@
 # Wine Reviews
 
-This dataset is .....
+This dataset is ..........
 
 ---
 
