@@ -23,7 +23,7 @@ The data consists of 13 fields:
 - *Taster Twitter Handle*: Twitter handle for the person who tasted ane reviewed the wine
 
 
-# Places my team take the dataset
+# Place my team take the dataset
 
 - [Kaggle](https://www.kaggle.com/zynicide/wine-reviews)
 
