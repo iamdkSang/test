@@ -1,6 +1,3 @@
-# This file includes overview of this project ad the meetings of each week
-
-
 # Wine Reviews
 
 This dataset is .....
