@@ -1,12 +1,10 @@
 # This file includes overview of this project ad the meetings of each week
 
----
 
 # Wine Reviews
 
 This dataset is .....
 
----
 
 ### About the data
 
@@ -26,15 +24,13 @@ The data consists of 13 fields:
 - *Taster Name*: name of the person who tasted and reviewed the wine
 - *Taster Twitter Handle*: Twitter handle for the person who tasted ane reviewed the wine
 
----
 
 # Places my team take the dataset
 
 - [Kaggle](https://www.kaggle.com/zynicide/wine-reviews)
 
----
 
 # Project plan 
 
 You can see the project plan here:
-- [GoogleSheets](https://docs.google.com/spreadsheets/d1a6YCNYcfdeE-low_JD90kefmyRYT_R-RUc9q5kXrmbk/edit#gid=541890420)
+- [GoogleSheets](https://docs.google.com/spreadsheets/d/1a6YCNYcfdeE-low_JD90kefmyRYT_R-RUc9q5kXrmbk/edit?usp=sharing)
